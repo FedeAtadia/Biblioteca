@@ -1,0 +1,7 @@
+{
+  "name": "Trabajo_esteban",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
