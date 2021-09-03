@@ -76,7 +76,7 @@ const Login: React.FC = () => {
                 <IonInput
                     type='email'
                     value={email}
-                    placeholder="Ingrese su email"
+                    placeholder="Ingrese su email:"
                     onIonChange={e => setEmail(e.detail.value!)} />
 
                 <IonInput
