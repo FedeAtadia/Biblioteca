@@ -1,0 +1,45 @@
+{
+	"analytics-uuid": "8ab8c2d4-9367-4f57-b662-d4c85d8e00a4",
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "112636534041704017924",
+		"email": "atadiafederico@gmail.com",
+		"email_verified": true,
+		"at_hash": "RrzYAmAqatRvS2gpacu49g",
+		"iat": 1630680393,
+		"exp": 1630683993
+	},
+	"tokens": {
+		"expires_at": 1630684241486,
+		"refresh_token": "1//0hQfbH2Pb5N5ICgYIARAAGBESNwF-L9Irdb1AhTPpDQ7LepNuAlv_vxdBDvYzVQohAHDWgt7fxYBjUZ0XcxUeLDkUvKnxtJZTa8Q",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.a0ARrdaM-iBHVvdNv6Pjzs4Ea9YEskgGoURhkYpUIHEfqzyP7gHt_ct1A91lC2K-435Q5oCwcbUJ49gcmqtkD7YcEkc8slLpitVR87MX3Ca70TcCTwZXafdIi71NVPxXJfRwhVqUEMZNz7rCHQr9g0IEet0uZIpzvqsQcy",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk5MWIwNjM2YWFkYTM0MWM1YTA4ZTBkOGYyNDA2OTcyMDY0ZGM4ZWQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTEyNjM2NTM0MDQxNzA0MDE3OTI0IiwiZW1haWwiOiJhdGFkaWFmZWRlcmljb0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6IkFRZkpjYlBKMC11SWdBa0VLb1NGSmciLCJpYXQiOjE2MzA2ODA2NDEsImV4cCI6MTYzMDY4NDI0MX0.XBvGqM4PqCZIXqQFYRHJ-i_5uOCseNRl2tp9VfNfuypr79fpR6LHFS-SxMzSXkrzqzY6cm1ofFFj0AabSYb98YOky5YGzzpuyz358ZbXQ4TLXh27Y0EwpNXVZLhAODG-FZQrwgLdF9xEHD1g7yICnASzPnOFRmA7XE5u8n5clc0FJ8Z_2gTMtCoo-3BxgVZy28BpEIwy8S5gz-67HZPXYwu_E1GzhQKRJo4k4S2F44hXMATPnKGo0ukzTDiZZdRRq3ArwhWHdV7yoKgPD0I4diCn0gw3b_LL3g-N6PNgkbZEWYZH6V_j1SJlBEZ3h9IbJ7rg8rO1Ki3cYKa9h7PPjw"
+	},
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1630680415782
+	},
+	"activeProjects": {
+		"C:\\Users\\fefon": "ionic-fede"
+	},
+	"lastError": 1630680770437
+}
